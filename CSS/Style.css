@@ -1,0 +1,23 @@
+body {
+  background-color: lightgreen;
+}
+hr {
+    border-style: none;
+    border-top-style:dotted;
+    border-color: lime;
+    border-width: 5px;
+    width: 5%;
+}
+img {
+     height: 300px;
+     width: 300px;
+}
+h1 {
+    color: #17dd14dc;
+}
+h3 {
+    color: green;
+}
+h4 {
+    color: green;
+}
